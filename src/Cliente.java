@@ -1,10 +1,14 @@
 public class Cliente {
     String nome;
     int codCliente;
+
+
+    public void consultarHistorico() {
+
+    }
 }
 
-public static void consultarHistorico() {
 
-}
+
 
 
