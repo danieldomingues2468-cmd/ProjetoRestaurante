@@ -4,4 +4,7 @@ public class Garcom {
     String nome;
     int altura;
     int idade;
+
+    public void registrarGorjeta() {
+    }
 }
